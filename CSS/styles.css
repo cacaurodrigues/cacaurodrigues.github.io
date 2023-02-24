@@ -18,7 +18,7 @@
 
 /*General*/
 .highlight{
-    color: var(--main-text-color)
+    color: var(--main-text-color);
 }
 
 /*Containers*/
